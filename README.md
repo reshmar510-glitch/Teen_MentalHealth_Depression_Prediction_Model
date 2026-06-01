@@ -1,4 +1,4 @@
-# Teen Mental Health Depression Prediction Model
+# Teen Mental Health Depression Prediction
 
 ## Project Overview
 This project predicts depression risk among teenagers using machine learning.
